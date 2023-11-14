@@ -1,3 +1,5 @@
+package com.bignerdranch.android.week8.database
+
 import androidx.room.Dao
 import androidx.room.Query
 import com.bignerdranch.android.week8.Crime

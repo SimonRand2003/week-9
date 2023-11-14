@@ -1,6 +1,5 @@
 package com.bignerdranch.android.week8.database
 
-import CrimeDao
 import androidx.room.Database
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
