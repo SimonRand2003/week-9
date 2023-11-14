@@ -1,9 +1,8 @@
-package com.bignerdranch.android.week8
+package com.bignerdranch.android.criminalintent
 
 import android.app.Application
 
-
-class CriminalIntentApplication : Application(){
+class CriminalIntentApplication : Application() {
     override fun onCreate() {
         super.onCreate()
         CrimeRepository.initialize(this)

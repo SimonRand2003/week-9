@@ -1,4 +1,4 @@
-package com.bignerdranch.android.week8
+package com.bignerdranch.android.criminalintent
 
 import org.junit.Test
 
